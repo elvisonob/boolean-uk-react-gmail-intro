@@ -1,4 +1,7 @@
 import './styles/app.css'
+import './styles/Main.css'
+import './styles/Nav.css'
+import './styles/header.css'
 
 import Header from './Header.js'
 import Nav from './Nav.js'
